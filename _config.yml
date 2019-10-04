@@ -1,14 +1,14 @@
 # Site
 title:              Home
-bio:                "Jana is the realest agent you can find."
-description:        "Jana serves the Chicago Land area to help you buy and sell your home"
+bio:                "Jana Mazan - Chicagoland Realtor"
+description:        "Jana serves the Chicago Land area helping people like you buy and sell their home"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://janaforreal.github.io/
+url:                https://janaforreal.github.io
 
 # Jekyll
 permalink:          /:title/
